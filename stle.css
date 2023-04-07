@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(121, 255, 255);
+   
+    
+}
+.general{
+    text-align: center;
+}
+.blackbck{
+    box-sizing: border-box;
+    background-color: black;
+    width: 450px;
+    height: 370px;
+    border-radius: 15px;
+    margin: auto auto;
+    padding-left: 70px;
+    padding-top: 70px
+}
+.userlabel{
+    
+    display: block;
+    color: rgb(55, 233, 55);
+    
+}
+.passwordlabel{
+    display: block;
+    color: rgb(59, 231, 59);
+    margin-top: 17px;
+}
+.user{
+    border-radius: 7px;
+    width: 260px;
+    height: 25px;
+    display: block;
+}
+.password{
+    border-radius: 7px;
+    width: 260px;
+    height: 25px;
+    display: block;
+    
+}
+.Log-in{
+    color: blue;
+    border-radius: 14px;
+    margin-top: 20px;
+    margin-left: 5px;
+    width: 230px;
+    height: 24px ;
+    display: block;
+    border: 0;
+    margin-bottom: 10px;
+}
+.check{
+    color: white;
+    margin-bottom: 40px;
+
+}
+span.remember{
+    color: white;
+}
+.forgot{
+    padding-left: 250px;
+}
+.forgot a{
+    color: blue;
+}
+
+/* .userlabel,.passwordlabel,.user,.password{
+    box-sizing: border-box;
+    padding: 10px;
+} */
